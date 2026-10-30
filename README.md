@@ -1,7 +1,7 @@
 # Mi primer repositorio
 
-Hola, soy [tu nombre].
+Hola, soy [ISABEL CACERES].
 Estoy aprendiendo Git y GitHub.
-
+SEGUNDO DE BACHILLERATO
 ## Objetivo
 Aprender a controlar versiones.
